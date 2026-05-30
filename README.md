@@ -165,7 +165,7 @@ Or simply open the project in your IDE and run `Main.java`.
 
 **Kalpesh Remje**
 
-Full Stack Developer
+Full Stack Developer | Java Deeveloper | ML Engineer
 
 📧 Email: [remjekalpesh486@gmail.com](mailto:remjekalpesh486@gmail.com)
 
