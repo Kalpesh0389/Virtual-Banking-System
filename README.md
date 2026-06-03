@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏦 VaultX : Virtual Banking System
+# 🏦 Virtual Banking System
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Tech](https://img.shields.io/badge/Java%20Swing-Desktop%20App-blue)
